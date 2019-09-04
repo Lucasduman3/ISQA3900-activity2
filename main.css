@@ -21,6 +21,23 @@ h1 {
     color: rgb(0, 0, 0);
     text-align: center;
 }
+
+a {
+    font-size: 25px;
+    color: #007bb5;
+    text-decoration: none;
+    border-bottom: solid 1px #007bb5;
+}
+
+a:hover {
+    color: #3B5998;
+    border-bottom: solid 1px #3B5998;;
+}
+
+h4 {
+    color: black;
+    font-size: 25px;
+}
 .image {
     display: block;
     width: 275px;
